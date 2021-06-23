@@ -1,5 +1,5 @@
 # PokemonDatabase
-I designed and implemented a relational database for Pokemon data on and conducted data analysis on it.
+I designed and implemented a relational database for Pokemon data and conducted data analysis on it.
 
 See Pokemon Database Creation for how I created the database on a local server using MySQL Workbench, python, pandas, and SQLAlchemy.
 
